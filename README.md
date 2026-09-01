@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 DSA in C++
+# DSA in C++
 
 ### My journey through Data Structures & Algorithms — one problem at a time.
 
